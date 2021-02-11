@@ -1,2 +1,2 @@
 # RQM_pwa
-Created with CodeSandbox
+A Random Quote Machine App which using PWA
